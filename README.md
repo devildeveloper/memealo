@@ -1,2 +1,3 @@
-# memealo
-memealo.com
+# memealo.com
+
+a [Sails](http://sailsjs.org) application
